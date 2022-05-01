@@ -39,6 +39,6 @@
 <div>
   <img src="https://64.media.tumblr.com/106d305e652170e61145791051bc2f41/tumblr_inline_nhj4j8vjNh1r5hzkj.gif" alt="Harry" height="200em"/>
   <img src="https://4.bp.blogspot.com/-jhhw-5SewFE/VyPc5pjtaQI/AAAAAAAAB4M/2-LcMyEh4UE7eNpHrDRcfqKb_Y6VvN7FwCLcB/s1600/gif.gif" alt="StarWars" />
-  <img src="https://cdn.edu.buncee.com/assets/f88812834d0f620b16d85e436aa9f073/animation-science-remotelearning-041420.gif?timestamp=1586899780" alt="Planetas" height="250em" />
+  <img src="https://cdn.edu.buncee.com/assets/f88812834d0f620b16d85e436aa9f073/animation-science-remotelearning-041420.gif?timestamp=1586899780" alt="Planetas" height="200em" />
   </div>
   
