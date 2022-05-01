@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  Like to much <b> COFFE </b>, um pouco <strong> A-C-E-L-E-R-A-D-O </strong>, <b>Rock</b> and <b>Roll</b>, <i>Ex-trover-ti-do</i> e sempre que estou livre estou <b>CODANDO</b>!.
+  Like to much <b> COFFE </b>, um pouco <strong> A-C-E-L-E-R-A-D-O </strong>, <b>Rock</b> and <b>Roll</b>, <i><b>Ex</b>-trover-ti-<b>do</b></i> e sempre que estou livre estou <b>CODANDO</b>!.
 </p>
 
 <div align="center">
